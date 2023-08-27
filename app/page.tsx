@@ -9,7 +9,7 @@ const Home = () => {
 </div>
     <div className='px-3'>Hello NextJs! ,</div>
     <div>
-<p>My Name is Numan Abubakar ! Will you be my Best Friend?</p>
+<p>My Name is Numan Abubakar ! Will you be my Best Friend?  </p>
     </div>
     </div>
   )

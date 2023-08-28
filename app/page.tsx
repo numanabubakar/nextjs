@@ -10,6 +10,7 @@ const Home = () => {
     <div className='px-3'>Hello NextJs! ,</div>
     <div>
 <p>My Name is Numan  Abubakar ! Will you be my Best Friend? @123 </p>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed, iste. Accusantium laborum voluptatum nesciunt odio, distinctio quae esse alias quam qui vitae dolorum pariatur sapiente dignissimos? Tempore officia quidem explicabo.</p>
     </div>
     </div>
   )
